@@ -28,7 +28,7 @@ plugins:
 
 nav:
     - 主页: ./index.md
-    - Transformer:
+    - 计算机系统概述:
         ./计算机系统概述/计算机系统概述.md
     
 
